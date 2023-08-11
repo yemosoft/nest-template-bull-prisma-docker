@@ -1,8 +1,8 @@
 {
-  "name": "order-limit",
+  "name": "nest-template-bull-prisma-docker",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Ahmad Yaman SAYED",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
